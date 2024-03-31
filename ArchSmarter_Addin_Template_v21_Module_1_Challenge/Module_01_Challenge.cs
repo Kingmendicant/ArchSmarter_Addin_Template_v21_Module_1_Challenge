@@ -75,6 +75,7 @@ namespace ArchSmarter_Addin_Template_v21_Module_1_Challenge
 
                             FilteredElementCollector collector4 = new FilteredElementCollector(doc);
                             collector4.OfCategory(BuiltInCategory.OST_TitleBlocks);
+                            collector4.WhereElementIsElementType();
 
                             ViewSheet newSheet = ViewSheet.Create(doc, collector4.FirstElementId());
                             newSheet.Name = "FIZZBUZZ_#" + i;
