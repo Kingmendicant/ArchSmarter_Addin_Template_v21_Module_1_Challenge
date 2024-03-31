@@ -49,7 +49,7 @@ namespace ArchSmarter_Addin_Template_v21_Module_1_Challenge
             // Loop through the number 1 to the number variable
             // Create a level for each number
 
-            for (int i = 0; i <= numberVar1; i++)
+            for (int i = 1; i <= numberVar1; i++)
             {
                 Level newLevel = Level.Create(doc, startElevation1);
                 newLevel.Name = "Level " + i.ToString() + " F.F.";
