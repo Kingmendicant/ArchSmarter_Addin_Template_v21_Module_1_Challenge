@@ -31,7 +31,7 @@ namespace ArchSmarter_Addin_Template_v21_Module_1_Challenge
 
             // Your code goes here
 
-            // Declare a number variable and set it to 250.Test2
+            // Declare a number variable and set it to 250.
 
             int numberVar1 = 250;
 
