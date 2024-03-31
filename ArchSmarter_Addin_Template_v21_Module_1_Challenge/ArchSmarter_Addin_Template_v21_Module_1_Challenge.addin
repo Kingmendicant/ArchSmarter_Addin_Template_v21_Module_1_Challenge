@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>ArchSmarter_Addin_Template_v21_Module_1_Challenge - Command 1</Text>
+    <Description>Some description for ArchSmarter_Addin_Template_v21_Module_1_Challenge</Description>
+    <Assembly>ArchSmarter_Addin_Template_v21_Module_1_Challenge.dll</Assembly>
+    <FullClassName>ArchSmarter_Addin_Template_v21_Module_1_Challenge.Command1</FullClassName>
+    <ClientId>761dd9f0-95c4-43a9-aee6-ca20395770d5</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>ArchSmarter_Addin_Template_v21_Module_1_Challenge - Command 2</Text>
+    <Description>Some description for ArchSmarter_Addin_Template_v21_Module_1_Challenge</Description>
+    <Assembly>ArchSmarter_Addin_Template_v21_Module_1_Challenge.dll</Assembly>
+    <FullClassName>ArchSmarter_Addin_Template_v21_Module_1_Challenge.Command2</FullClassName>
+    <ClientId>de8669a3-6de4-4056-8fb9-982239cb3ce7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+	<Text>ArchSmarter_Addin_Template_v21_Module_1_Challenge - Module_01_Challenge</Text>
+	<Description>Some description for ArchSmarter_Addin_Template_v21_Module_1_Challenge</Description>
+	<Assembly>ArchSmarter_Addin_Template_v21_Module_1_Challenge.dll</Assembly>
+	<FullClassName>ArchSmarter_Addin_Template_v21_Module_1_Challenge.Module_01_Challenge</FullClassName>
+	<ClientId>DE65F90A-4F45-407A-9BFE-322E66F2EC87</ClientId>
+	<VendorId>com.YOUR COMPANY NAME</VendorId>
+	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>ArchSmarter_Addin_Template_v21_Module_1_Challenge</Name>
+    <Assembly>ArchSmarter_Addin_Template_v21_Module_1_Challenge.dll</Assembly>
+    <FullClassName>ArchSmarter_Addin_Template_v21_Module_1_Challenge.App</FullClassName>
+    <ClientId>8a11ddcf-7b34-41c6-bb6c-93e7c9a94870</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
